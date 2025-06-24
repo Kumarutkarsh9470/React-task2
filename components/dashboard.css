@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+}
+.questions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30px;
+  padding: 100px;
+  gap: 20px;
+}

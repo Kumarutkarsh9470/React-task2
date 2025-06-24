@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+}
+nav {
+  font-size: 3rem;
+  font-family: sans-serif;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
